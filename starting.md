@@ -1,6 +1,8 @@
+---
 layout: page
 title: "My first page"
 permalink: /
+---
 
 # Information belongs here
 
